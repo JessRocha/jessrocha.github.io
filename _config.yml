@@ -1,11 +1,11 @@
 # Site settings
-title: Jessica Rocha
+title:
 email: jessrocha89@gmail.com
 url: jessicarocha.me
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - User Experience Designer"
-meta_author: Jessica Rocha
+meta_author: Rocha Jessica
 
 # Google webmaster tools
 google_verify:
