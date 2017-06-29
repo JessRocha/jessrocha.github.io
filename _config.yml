@@ -54,7 +54,7 @@ address:
   - line: 
 
 # Credits content
-credits: 'Theme is Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme: Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a>.<br/>Header Font: '
 
 # Build settings
 markdown: kramdown
