@@ -54,7 +54,9 @@ address:
   - line: 
 
 # Credits content
-credits: 'Theme: Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a>.<br/>Header Font: Nickainly by <a href="https://www.behance.net/seniorsstudio">Senior Studios</a>.<br/>Icons: Mail Vol 3. by <a href="https://www.iconfinder.com/iconsets/mail-vol-3">Kokota</a>'
+credits: 'Theme: Freelancer by <a href="http://startbootstrap.com">Start Bootstrap</a> (Customized by me).
+<br/>Header Font: Nickainly by <a href="https://www.behance.net/seniorsstudio">Senior Studios</a>.
+<br/>Icons: Mail Vol 3. by <a href="https://www.iconfinder.com/iconsets/mail-vol-3">Kokota</a>'
 
 # Build settings
 markdown: kramdown
