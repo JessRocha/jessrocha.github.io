@@ -4,7 +4,8 @@ modal-id: 1
 date: 2014-07-18
 title: Hitori Puzzle
 img: envelope1.png
-alt: hitoriPuzzle.png
+img-Open: hitoriPuzzle.png
+alt:
 project-date: November 2016
 description: Japanese Hitori Puzzle utilizing javascript
 
