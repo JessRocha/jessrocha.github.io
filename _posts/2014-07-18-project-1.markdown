@@ -1,12 +1,10 @@
 ---
 layout: default
-modal-id: 10
+modal-id: 1
 date: 2014-07-18
 img: envelope1.png
 alt: image-alt
 project-date: November 2016
-client: Start Bootstrap
-category: Web Development
-description:
+description: Japanese Hitori Puzzle utilizing javascript
 
 ---
