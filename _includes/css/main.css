@@ -206,7 +206,7 @@ section.success {
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#portfolio .portfolio-item .portfolio-link a:hover {
     background: #fff
 }
 
