@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title:
 img: envelope6.png
 alt: image-alt
 project-date: April 2014
